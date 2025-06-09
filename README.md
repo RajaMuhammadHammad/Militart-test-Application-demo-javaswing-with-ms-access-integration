@@ -1,4 +1,4 @@
-readme: |
+
   # Military Test Application (Java Swing + MS Access)
 
   This is a demo desktop application built using **Java Swing** with **MS Access database integration**. It simulates a basic military test system for candidates.
